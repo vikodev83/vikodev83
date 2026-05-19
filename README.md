@@ -14,13 +14,14 @@ I'm a 5+ years experienced videogame programmer.
 
 <h2 align="left">Projects 📂</h2>
 
-Your Own GB Adventure (Game Boy programming Learning Book, Academic Prototype)
-Unreal Edtor for Fortnite (UEFN)
-Fall Guys / Fall Guys Editor
-PC Building Simulator
-Yahtzee with Buddies
-Wizards & Warlocks (Multiplayer FPS, Academic Project)
-King Of The Jungle (Acadenic Project)
-Rolla Blaze (Amstrad CPC, Academic Project) (https://github.com/ABPMultimediaUA/grupo3)
+- ### [Game Boy Learning Adventure](https://heyzine.com/flip-book/da80d3844a.html)　ー　Game Boy Programming Learning Book, Academic Prototype
+- ### [Unreal Edtor for Fortnite (UEFN)](https://store.epicgames.com/p/fortnite--uefn)　ー　 Epic Games
+- ### [Fall Guys / Fall Guys Editor](https://www.fallguys.com/)　ー　 Mediatonic
+- ### [PC Building Simulator](https://store.epicgames.com/p/pc-building-simulator?lang=en-US)　ー　 Mediatonic / The Irregular Corporation
+- ### [Yahtzee with Buddies](https://www.scopely.com/en/games/yahtzee-with-buddies)　ー　 Mediatonic / Scopely
+- ### [Wizards & Warlocks](https://github.com/TravelersInnOfficial/WizardsAndWarlocks)　ー　8PVP Multiplayer FPS, Academic Project
+- ### [Travelers Ocular Engine](https://github.com/TravelersInnOfficial/TravelersOcularEngine)　ー　OpenGL Graphic Engine, Academic Project
+- ### [King Of The Jungle](https://github.com/TravelersInnOfficial/KingJungle2k17)　ー　4PVP Local Party Game, Acadenic Project
+- ### [Rolla Blaze](https://github.com/ABPMultimediaUA/grupo3)　ー　Amstrad CPC, Academic Project
 
 ###
