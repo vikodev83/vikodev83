@@ -21,7 +21,7 @@ I'm a 5+ years experienced videogame programmer.
 - ### [Yahtzee with Buddies](https://www.scopely.com/en/games/yahtzee-with-buddies)　ー　 Mediatonic / Scopely
 - ### [Wizards & Warlocks](https://github.com/TravelersInnOfficial/WizardsAndWarlocks)　ー　8PVP Multiplayer FPS, Academic Project
 - ### [Travelers Ocular Engine](https://github.com/TravelersInnOfficial/TravelersOcularEngine)　ー　OpenGL Graphic Engine, Academic Project
-- ### [King Of The Jungle](https://github.com/TravelersInnOfficial/KingJungle2k17)　ー　4PVP Local Party Game, Acadenic Project
+- ### [King Of The Jungle](https://github.com/TravelersInnOfficial/KingJungle2k17)　ー　4PVP Local Party Game, Academic Project
 - ### [Rolla Blaze](https://github.com/ABPMultimediaUA/grupo3)　ー　Amstrad CPC, Academic Project
 
 ###
