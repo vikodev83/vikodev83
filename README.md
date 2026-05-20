@@ -1,16 +1,14 @@
-<h1 align="left">Viktor (Viko) Oliver Calero　ー　Videogame Developer</h1>
+<h1 align="left">Viktor (Viko) Oliver Calero　ー　Videogame Developer 🎮🐛</h1>
 
 ###
 
 <h2 align="left">About me 👀</h2>
 
-I’m a generalist game programmer with than 5+ years of professional experience in the videogame industry, mainly working at **Epic Games** and **Mediatonic**. During my career I've done all sorts of work, like working on gameplay systems, fixing bugs, developing tools, code reviewing, building production pipelines... to name a few.
+I’m a generalist game programmer with 5+ years of experience in the videogame industry, mainly at **Epic Games** and **Mediatonic**. I’ve worked on AAA titles like **Fall Guys** and **Unreal Editor for Fortnite (UEFN)**.
 
-I enjoy writing clean, scalable, and maintainable code that can evolve alongside the needs of a project. I focus on building systems that are easy for other developers to understand, extend, and improve over time. I also enjoy close collaboration with multidisciplinary teams, using clear communication and organisation to transform ideas into polished and robust gameplay features.
+I have a university degree in **Multimedia Engineering**, with a specialism in video games and digital entertainment. I enjoy writing clean, scalable, and maintainable code, collaborating closely with multidisciplinary teams to turn ideas into polished gameplay features. My background includes professional experience with **Unity**, **Unreal Engine**, **C#**, and **C++**.
 
-I'm a graduate in **Multimedia Engineering**, which is a university degree focused on interactive entertainment and video game development. Throughout my career, I’ve contributed to AAA titles like **Fall Guys** and **UEFN**. My background includes professional experience with **Unity**, **Unreal Engine**, **C#**, and **C++**. 
-
-Aside from work, I’m also really into retro game development and low-level programming. I co-created a Game Boy Assembly learning book prototype called **Game Boy Learning Adventure**, which was designed to help people learn how to develop games for the original Game Boy. Recently, I've also been involved with the **GB Retro Dev** community and working on personal projects to keep improving as a developer.
+Outside of work, I’m passionate about retro game development and low-level programming. I also co-created **Game Boy Learning Adventure**, a Game Boy Assembly learning project focused on teaching people how to develop games for the original Game Boy.
 
 ###
 
@@ -42,6 +40,8 @@ Aside from work, I’m also really into retro game development and low-level pro
 * English (Fluent)
 * Valencian (Basic)
 * Japanese (Basic)
+
+###
 
 <h2 align="left">Other links 🌐</h2>
 
