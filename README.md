@@ -26,8 +26,8 @@ I'm a 5+ years experienced videogame programmer.
 
 ###
 
-<h2 align="left">Other links </h2>
+<h2 align="left">Other links 🌐</h2>
 
-- 🌐 [Bio Site](https://bio.site/vikodev)
+- 👤 [Bio Site](https://bio.site/vikodev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/viktor-oliver-calero/)
 - 📖 [Game Boy Learning Adventure Development Journal](https://rua.ua.es/entities/publication/b61d4cdb-b526-49a7-bea3-30a0a27c3494)
