@@ -25,3 +25,9 @@ I'm a 5+ years experienced videogame programmer.
 - ### [Rolla Blaze](https://github.com/ABPMultimediaUA/grupo3)　ー　Amstrad CPC, Academic Project
 
 ###
+
+<h2 align="left">Other links </h2>
+
+- 🌐 [Bio Site](https://bio.site/vikodev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/viktor-oliver-calero/)
+- 📖 [Game Boy Learning Adventure Development Journal](https://rua.ua.es/entities/publication/b61d4cdb-b526-49a7-bea3-30a0a27c3494)
