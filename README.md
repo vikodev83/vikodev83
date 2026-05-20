@@ -8,7 +8,7 @@ I’m a generalist game programmer with than 5+ years of professional experience
 
 I enjoy writing clean, scalable, and maintainable code that can evolve alongside the needs of a project. I focus on building systems that are easy for other developers to understand, extend, and improve over time. I also enjoy close collaboration with multidisciplinary teams, using clear communication and organisation to transform ideas into polished and robust gameplay features.
 
-Throughout my career, I’ve contributed to AAA titles like **Fall Guys** and **UEFN**. My background includes professional experience with **Unity**, **Unreal Engine**, **C#**, and **C++**. 
+I'm a graduate in **Multimedia Engineering**, which is a university degree focused on interactive entertainment and video game development. Throughout my career, I’ve contributed to AAA titles like **Fall Guys** and **UEFN**. My background includes professional experience with **Unity**, **Unreal Engine**, **C#**, and **C++**. 
 
 Aside from work, I’m also really into retro game development and low-level programming. I co-created a Game Boy Assembly learning book prototype called **Game Boy Learning Adventure**, which was designed to help people learn how to develop games for the original Game Boy. Recently, I've also been involved with the **GB Retro Dev** community and working on personal projects to keep improving as a developer.
 
